@@ -1,5 +1,5 @@
 
-# My Awesome Landing Page
+# InnovateHub Landing Page
 
 Welcome to My Awesome Landing Page! This landing page showcases the amazing features of our product.
 
@@ -49,11 +49,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Feedback
 
-We'd love to hear your feedback! If you have any questions, suggestions, or concerns, please feel free to reach out to us.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+I'd love to hear your feedback! If you have any questions, suggestions, or concerns, please feel free to reach out to us.
 
 ---
 
