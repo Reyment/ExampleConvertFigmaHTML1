@@ -17,11 +17,9 @@ This landing page is designed to provide visitors with a captivating introductio
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
+![Screenshot 1](/src/images/homepage.png)
 *Screenshot 1: Overview of the landing page.*
 
-![Screenshot 2](/screenshots/screenshot2.png)
-*Screenshot 2: Features section of the landing page.*
 
 ## Technologies Used
 
