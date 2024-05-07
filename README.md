@@ -24,7 +24,7 @@ This landing page is designed to provide visitors with a captivating introductio
 ## Technologies Used
 
 - HTML5
-- CSS3
+- SCSS
 - JavaScript
   
 
