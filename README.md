@@ -26,7 +26,7 @@ This landing page is designed to provide visitors with a captivating introductio
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap
+  
 
 ## Getting Started
 
