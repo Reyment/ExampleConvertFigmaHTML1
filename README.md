@@ -35,3 +35,28 @@ This landing page is designed to provide visitors with a captivating introductio
 To view the landing page locally, follow these steps:
 
 1. Clone the repository:
+   git clone https://github.com/Reyment/InnovateHub.git
+   
+3. Navigate to the project directory:
+	cd your-landing-page
+
+3. Open `index.html` in your web browser.
+
+4. 
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
+
+## Feedback
+
+We'd love to hear your feedback! If you have any questions, suggestions, or concerns, please feel free to reach out to us.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+[View Live Demo](https://example-convert-figma-html-1.vercel.app/)
+
+
