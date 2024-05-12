@@ -23,11 +23,10 @@ This landing page is designed to provide visitors with a captivating introductio
 
 ## Technologies Used
 
-- NextJS
-- TailwindCSS
-- Framer Motion
-- react-type-animation
-- 
+- HTML
+- SCSS
+- JavaScript
+  
 
 ## Getting Started
 
